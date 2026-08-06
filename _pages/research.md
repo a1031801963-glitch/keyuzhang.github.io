@@ -21,11 +21,11 @@ Submitted, 2026. [[ArXiv]](https://arxiv.org/abs/2603.06145)
 
 **[6]**  Mean Field Game with Reflected Jump Diffusion Dynamics: A Linear Programming Approach. (with  [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Xiang Yu](https://sites.google.com/site/xiangyuama/home))
 
-Submitted, 2025. [[ArXiv]](https://arxiv.org/abs/2508.20388)
+Major revision with ***Mathematics of Operations Research***, 2025. [[ArXiv]](https://arxiv.org/abs/2508.20388)
 
 **[5]** Equilibrium stochastic control with implicitly defined objective functions. (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Jianming Xia](https://people.ucas.ac.cn/~xia))
 
-Major revision with ***SCIENTIA SINICA Mathematica***, 2023. [[ArXiv]](https://arxiv.org/abs/2312.15173)
+Minor revision with ***SCIENTIA SINICA Mathematica***, 2023. [[ArXiv]](https://arxiv.org/abs/2312.15173)
 
 <br>
 
