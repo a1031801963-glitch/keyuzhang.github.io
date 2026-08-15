@@ -40,6 +40,7 @@ Major revision with ***Mathematics of Operations Research***, 2025. [[ArXiv]](ht
 **[2]** [A mean field game approach to relative investment-consumption games with habit formation](https://link.springer.com/article/10.1007/s11579-024-00360-4). (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm)) ***Mathematics and Financial Economics***, 18: 577-622, 2024. [[ArXiv]](https://arxiv.org/abs/2401.15659)
 
 **[1]** [Time-inconsistent mean field and n-agent games under relative performance criteria](https://epubs.siam.org/doi/10.1137/22M1533219). (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm)) 
+ 
 ***SIAM Journal on Financial Mathematics***, 15(4): 1047-1082, 2024. [[ArXiv]](https://arxiv.org/abs/2312.14437)
 
 <br>
