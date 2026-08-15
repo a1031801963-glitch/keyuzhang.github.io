@@ -23,13 +23,14 @@ Submitted, 2026. [[ArXiv]](https://arxiv.org/abs/2603.06145)
 
 Major revision with ***Mathematics of Operations Research***, 2025. [[ArXiv]](https://arxiv.org/abs/2508.20388)
 
-**[5]** Equilibrium stochastic control with implicitly defined objective functions. (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Jianming Xia](https://people.ucas.ac.cn/~xia))
-
-Minor revision with ***SCIENTIA SINICA Mathematica***, 2023. [[ArXiv]](https://arxiv.org/abs/2312.15173)
 
 <br>
 
 ## Journal Publications
+
+**[5]** Equilibrium stochastic control with implicitly defined objective functions. (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Jianming Xia](https://people.ucas.ac.cn/~xia))
+
+***SCIENTIA SINICA Mathematica***, forthcoming,  2026. [[ArXiv]](https://arxiv.org/abs/2312.15173)
 
 **[4]** Major-Minor mean field game of stopping: an entropy regularization approach. (with [Xiang Yu](https://sites.google.com/site/xiangyuama/home), [Jiacheng Zhang](https://jiachengzh.github.io/), and [Zhou Zhou](https://www.maths.usyd.edu.au/u/zhouzhou/)) ***SIAM Journal on Control and Optimization***, forthcoming,  2026. [[ArXiv]](https://arxiv.org/abs/2501.08770)
 
