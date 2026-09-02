@@ -31,8 +31,8 @@ Major revision with ***Mathematics of Operations Research***, 2025. [[ArXiv]](ht
 **[5]** [Equilibrium stochastic control with implicitly defined objective functions](https://www.sciengine.com/SSM/doi/10.1360/SSM-2026-0064). (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Jianming Xia](https://people.ucas.ac.cn/~xia))  
 ***SCIENTIA SINICA Mathematica***, online first,  2026. [[ArXiv]](https://arxiv.org/abs/2312.15173)
 
-**[4]** Major-Minor mean field game of stopping: an entropy regularization approach. (with [Xiang Yu](https://sites.google.com/site/xiangyuama/home), [Jiacheng Zhang](https://jiachengzh.github.io/), and [Zhou Zhou](https://www.maths.usyd.edu.au/u/zhouzhou/)) 
-***SIAM Journal on Control and Optimization***, forthcoming,  2026. [[ArXiv]](https://arxiv.org/abs/2501.08770)
+**[4]** [Major-Minor mean field game of stopping: an entropy regularization approach](https://epubs.siam.org/doi/10.1137/25M1726121). (with [Xiang Yu](https://sites.google.com/site/xiangyuama/home), [Jiacheng Zhang](https://jiachengzh.github.io/), and [Zhou Zhou](https://www.maths.usyd.edu.au/u/zhouzhou/)) 
+***SIAM Journal on Control and Optimization***, 64(5), 3185-3214, 2026. [[ArXiv]](https://arxiv.org/abs/2501.08770)
 
 **[3]** [On time-inconsistent extended mean-field control problems with common noise](https://pubsonline.informs.org/doi/10.1287/moor.2024.0681). (with [Zongxia Liang](https://math.tsinghua.edu.cn/info/1125/1623.htm) and [Xiang Yu](https://sites.google.com/site/xiangyuama/home)) 
 ***Mathematics of Operations Research***, online first, 2026. [[ArXiv]](https://arxiv.org/abs/2409.07219)
